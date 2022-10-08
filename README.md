@@ -1,9 +1,10 @@
-# StackOverflow-Clone
-This is a simple full stack question answer forum, inspired by Stackoverflow.
-It supports features like ask a question, answer a question, upvote, downvote etc.
+QA FORUM
+User can create account 
+User can asks Questions 
+User can answer a Question
+This app can be viewed in light as well as dark mode
 
-Backend - Go, NodeJS
-
-Frontend - NodeJS
-
-Database - MySQL# QA-FORUM
+Tech Stack Used
+Frontend -> NodeJs
+Backend -> Go,Nodejs
+Database -> MySQL
