@@ -10,7 +10,7 @@ This app can be viewed in light as well as dark mode
 
 Tech Stack Used
 
-Frontend -> NodeJs
+Frontend -> ReactJS, Redux, Material UI,CSS,HTML
 
 Backend -> Go,Nodejs
 
